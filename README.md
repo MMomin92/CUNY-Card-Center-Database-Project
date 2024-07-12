@@ -52,6 +52,6 @@ For detailed information on the ERD diagrams and the complete project documentat
 
 ## Additional Files
 
-- `idcardmanagmentstyem.accdb`: Microsoft Access database file containing the implemented database schema.
+- [idcardmanagmentstyem.accdb](https://github.com/MMomin92/CUNY-Card-Center-Database-Project/blob/3ecce134aa87c47ae4bd4df6066332d6ad393e5d/idcardmanagmentstyem.accdb): Microsoft Access database file containing the implemented database schema.
 
 
