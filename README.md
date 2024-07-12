@@ -48,7 +48,7 @@ The database schema successfully supports the operations of the CUNY Card Center
 
 ## ERD Diagrams and Final Report
 
-For detailed information on the ERD diagrams and the complete project documentation, please refer to the [Final Report](link-to-final-report) and the ERD diagrams included in the report.
+For detailed information on the ERD diagrams and the complete project documentation, please refer to the [Final Report]([link-to-final-report](https://github.com/MMomin92/CUNY-Card-Center-Database-Project/blob/3ecce134aa87c47ae4bd4df6066332d6ad393e5d/Final%20Project%20CUNY%20Database.docx)) and the ERD diagrams included in the report.
 
 ## Additional Files
 
